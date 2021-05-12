@@ -3,5 +3,5 @@
 
 
 - I’m currently learning HTML, CSS, JAVASCRIPT, C
-- I’m interested in Python also
+- I’m also interested in Python 
 - Always studying
