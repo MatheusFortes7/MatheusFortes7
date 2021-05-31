@@ -2,6 +2,6 @@
 <h3 align="center">Estudande de ciência da computação</h3>
 
 
-- I’m currently learning HTML, CSS, JAVASCRIPT, C
+- I’m currently learning HTML, CSS, JAVASCRIPT, C, C++
 - I’m also interested in Python 
 - Always studying
