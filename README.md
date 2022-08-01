@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Matheus Fortes</h1>
-<h3 align="center">Estudante de ciência da computação (3º Período)</h3>
+<h3 align="center">Computer science student (4th period)</h3>
 
 <div align="center">
   <a href="https://github.com/MatheusFortes7">
